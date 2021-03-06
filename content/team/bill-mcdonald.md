@@ -3,7 +3,7 @@ title: Mandalorian
 date: '2018-11-19T10:47:58+10:00'
 draft: false
 image: images/mandalorian-button-1600277980032.jpg
-jobtitle: Badass
+jobtitle: Protector of baby yoda
 linkedinurl: ''
 weight: 7
 ---
