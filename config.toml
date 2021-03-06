@@ -12,7 +12,7 @@ google_tag_manager_id = ""
 
   [params.logo]
   mobile = "images/mighty-cedar.png"
-  desktop = "images/Socisoft-A4.jpg"
+  desktop = "images/square-goat.png"
   desktop_height = "65px"
   alt = "BrainSoft ICT"
 
