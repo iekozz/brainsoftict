@@ -4,6 +4,7 @@ draft: false
 image: images/neal-caffrey-white-collar.jpg
 weight: 3
 title: Neal Caffrey
+jobtitle: FBI Directeur
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
