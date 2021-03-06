@@ -1,7 +1,8 @@
 [
     {
         "title": "Gratis koffie",
-        "image": "images/features/noun_branding_1885335.svg"
+        "image": "images/features/noun_branding_1885335.svg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
         "title": "Certified Accountants",
