@@ -1,7 +1,7 @@
 ---
 date: '2018-12-20T13:44:30+10:00'
 draft: false
-image: images/team/joseph-gonzalez-399972-unsplash.jpg
+image: images/neal-caffrey-white-collar.jpg
 jobtitle: Art Director
 weight: 3
 title: Neal Caffrey
