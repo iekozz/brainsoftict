@@ -11,7 +11,7 @@ google_tag_manager_id = ""
   hide_view_all_services = false
 
   [params.logo]
-  mobile = "images/BrainSoftSmall.png"
+  mobile = "images/mighty-cedar.png"
   desktop = "images/Socisoft-A4.jpg"
   desktop_height = "65px"
   alt = "BrainSoft ICT"
