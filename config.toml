@@ -12,7 +12,7 @@ google_tag_manager_id = ""
 
   [params.logo]
   mobile = "images/BrainSoftSmall.png"
-  desktop = "images/BrainSoftBig.png"
+  desktop = "images/important-triceratops.png"
   desktop_height = "36px"
   alt = "BrainSoft ICT"
 
