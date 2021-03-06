@@ -1,10 +1,9 @@
 ---
-title: 'Team'
-intro_image: ""
+title: Team
+intro_image: ''
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
+# Ontmoet het Team
 
-# Meet The Team
-
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Ons team van juristen, superhelden en con artists is klaar voor welke uitdaging dan ook! 
