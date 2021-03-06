@@ -5,7 +5,6 @@ title = "BrainSoft ICT"
 [params]
 google_analytics_id = ""
 google_tag_manager_id = ""
-footer = { }
 
   [params.homepage]
   show_call_box = true
@@ -30,6 +29,9 @@ footer = { }
 
   [params.team]
   summary_large_truncate = 120
+
+  [params.footer]
+  copyright_text = "© BrainSoft ICT "
 
 [[menu.main]]
 name = "Services"
