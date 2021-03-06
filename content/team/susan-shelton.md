@@ -3,7 +3,7 @@ title: Eliot Alderson
 date: '2018-12-20T13:45:06+10:00'
 draft: false
 image: images/Elliot.jpg
-jobtitle: L33t 11337 hack3r in chief
+jobtitle: L33t 1337 hack3r in chief
 weight: 5
 ---
 
